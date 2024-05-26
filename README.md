@@ -1,13 +1,11 @@
 # NEWDES2
-NEWDES2 Encryption source code in C.
+NEWDES2 Encryption source code in C. 128-bit block cipher (like AES) 64 rounds.
 
-15552-bit keys with 1944 * 8-bit subkeys
+15552-bit keys.
  
 Based on NEWDES by Robert Scott
 
-128-bit block cipher (like AES) 64 rounds
-
-Uses MD2II hash function to create the 1944 subkeys
+Uses MD2II hash function to create the 15552-bit keys.
  
 Code free for all, even for commercial software 
 No restriction to use. Public Domain 
