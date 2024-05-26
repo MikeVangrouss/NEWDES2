@@ -1,5 +1,5 @@
 # NEWDES2
-NEWDES2 Encryption source code in C. 128-bit block cipher (like AES) 64 rounds.
+NEWDES2 Block cipher encryption source code in C. 128-bit block cipher (like AES) 64 rounds.
 
 15552-bit keys.
  
